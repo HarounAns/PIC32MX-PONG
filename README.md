@@ -12,6 +12,8 @@ pixel/decisecond. The medium and hard difficulties move with a velocity of 2 and
 respectively. This way the speed increases one p/ds with every increase in difficulty. Increasing
 to 4 p/ds made the game rather difficult to play.
 
+
+
 To navigate the menu press button 1 in order to
 navigate the menu. Press button 2 in order to start the game over the desired difficulty.
 For the actual game play you have 2 dotted lines which divide the pixel into 3 separate
