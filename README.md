@@ -10,7 +10,9 @@ However the easy mode is very, very easy. The difficulty corresponds with the sp
 “notes” as they approach the scorezone. The easy mode moves with a velocity of 1
 pixel/decisecond. The medium and hard difficulties move with a velocity of 2 and 3 p/ds
 respectively. This way the speed increases one p/ds with every increase in difficulty. Increasing
-to 4 p/ds made the game rather difficult to play. To navigate the menu press button 1 in order to
+to 4 p/ds made the game rather difficult to play.
+
+To navigate the menu press button 1 in order to
 navigate the menu. Press button 2 in order to start the game over the desired difficulty.
 For the actual game play you have 2 dotted lines which divide the pixel into 3 separate
 sections. The top corresponds to the area where a Right Twist is hit, the bottom is for a Left
@@ -29,6 +31,7 @@ of 8 in a row you get a very happy smiley face :D . If you get a miss streak of 
 face ): . If you miss 8 in a row you get a very sad face D: . If you dont have any of those streaks
 then you get a neutral face :| . After a minute is over the game finishes and a screen comes that
 tells you your score. After that it takes you back to the difficulty screen.
+
 Extra feature: Secret God Mode
 This game mode is accessed when you are in the difficulty screen and you perform a
 right twist 3 times. The screen will blink every time you perform a right twist. If you do it
