@@ -34,6 +34,8 @@ face ): . If you miss 8 in a row you get a very sad face D: . If you dont have a
 then you get a neutral face :| . After a minute is over the game finishes and a screen comes that
 tells you your score. After that it takes you back to the difficulty screen.
 
+![Image of Gameplay](https://github.com/HarounAns/PIC32MX-PONG/blob/master/images/image2.PNG)
+
 Extra feature: Secret God Mode
 This game mode is accessed when you are in the difficulty screen and you perform a
 right twist 3 times. The screen will blink every time you perform a right twist. If you do it
