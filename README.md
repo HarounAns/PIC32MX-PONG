@@ -12,7 +12,7 @@ pixel/decisecond. The medium and hard difficulties move with a velocity of 2 and
 respectively. This way the speed increases one p/ds with every increase in difficulty. Increasing
 to 4 p/ds made the game rather difficult to play.
 
-![Image of Difficulty levels](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Image of Difficulty levels](PIC32MX-PONG/images/images1.png?raw=true)
 
 To navigate the menu press button 1 in order to
 navigate the menu. Press button 2 in order to start the game over the desired difficulty.
